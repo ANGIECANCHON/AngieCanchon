@@ -2,7 +2,7 @@
 <div align="center">
 <h1 >Hi there 👋, I'm Angie Canchon </h1>
   
-![image](https://github.com/Tati20h/Tati20h/blob/main/img/lo.png)
+![image](https://github.com/Tati20h/Tati20h/blob/main/img/logo.png?raw=true)
 
 </div>
 
@@ -15,7 +15,7 @@ Fullstack developer, ready to enjoy teamwork, excited to take on new challenges,
 <br> 
 <div align="center">
 <h2 >🌐 Socials:</h2>   
-<a href="[https://www.linkedin.com/in/tatiana-hernandez29/](https://www.linkedin.com/in/angie-natalia-canchon-junca/)"> <img src="https://img.icons8.com/color/70/000000/linkedin.png" alt="linkedin"/</a>
+<a href="https://www.linkedin.com/in/angie-natalia-canchon-junca/"> <img src="https://img.icons8.com/color/70/000000/linkedin.png" alt="linkedin"/</a>
    <br> 
    <br> 
    
