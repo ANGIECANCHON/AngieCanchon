@@ -5,9 +5,9 @@
 <img src="https://github.com/ANGIECANCHON/AngieCanchon/blob/main/go.jpeg?raw=true" width="750" height="320" >
 
 <br>
-<h3>💫 About Me: </h3> 
+<h2>💫 About Me: </h2> 
 </div>
-<p align="justify">
+<p align="center">
 
 🔭 Fullstack developer, ready to enjoy teamwork, ⚡excited to take on new challenges, passionate about technology, experience in demanding, dynamic and innovative jobs like startups, 🌱 always looking for knowledge, entirely open for opportunities that are given to learn and improve, having a sense of belonging and contributing 👯to the team to get the objectives.<br>
 
@@ -19,15 +19,14 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/angie-natalia-canchon-junca/) 
 
-   <br> 
-   <br> 
+   <br>
    
   [![Gmail Badge](https://img.shields.io/badge/-anc.natalia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anc.natalia@gmail.com)](mailto:anc.natalia@gmail.com)
  </div>
  
 <br> 
 
-  <div align="center"> 
+  <div align="justify"> 
   
   <h2>💻 Tech Stack:</h2> 
   
