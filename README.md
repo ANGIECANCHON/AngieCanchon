@@ -2,7 +2,7 @@
 <div align="center">
 <h1 >Hi there 👋, I'm Angie Canchon </h1>
   
-<img src="https://github.com/ANGIECANCHON/AngieCanchon/blob/main/go.jpeg?raw=true" width="400" height="350" >
+<img src="https://github.com/ANGIECANCHON/AngieCanchon/blob/main/go.jpeg?raw=true" width="600" height="300" >
 
 <br>
 <h3>💫 About Me: </h3> 
