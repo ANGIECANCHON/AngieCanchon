@@ -2,7 +2,7 @@
 <div align="center">
 <h1 >Hi there 👋, I'm Angie Canchon </h1>
   
-<img src="https://github.com/ANGIECANCHON/AngieCanchon/blob/main/WhatsApp%20Image%202024-03-22%20at%204.45.08%20PM.jpeg?raw=true" width="350" height="350" >
+<img src="https://github.com/ANGIECANCHON/AngieCanchon/blob/main/go.jpeg?raw=true" width="400" height="350" >
 
 <br>
 <h3>💫 About Me: </h3> 
