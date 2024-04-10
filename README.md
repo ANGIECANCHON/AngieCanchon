@@ -15,7 +15,7 @@
 <div align="center">
 <h2 >🌐 Socials:</h2>   
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/angie-natalia-canchon-junca/  [![Gmail Badge](https://img.shields.io/badge/-anc.natalia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anc.natalia@gmail.com)](mailto:anc.natalia@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/angie-natalia-canchon-junca/)  [![Gmail Badge](https://img.shields.io/badge/-anc.natalia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anc.natalia@gmail.com)](mailto:anc.natalia@gmail.com)
  </div>
  
 <br> 
@@ -43,3 +43,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
+
+
+
+
